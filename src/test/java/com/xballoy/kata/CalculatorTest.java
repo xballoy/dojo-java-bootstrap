@@ -9,8 +9,8 @@ class CalculatorTest {
     @Test
     void shouldAddInteger() {
         // Arrange
-        final int x = Integer.MAX_VALUE;
-        final int y = Integer.MAX_VALUE;
+        final int x = 6;
+        final int y = 4;
 
         // Act
         final int result = Calculator.sum(x, y);
