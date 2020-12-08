@@ -1,5 +1,13 @@
 # Java Kata Bootstrap
 
+You can use this project to quick start your katas in Java.
+
+The project targets the latest JDK version (15).
+You can either install it from [AdoptOpenJDK website](https://adoptopenjdk.net/) or you can change it to your current version in following files:
+
+- [pom.xml](pom.xml): change `maven-compiler-plugin` configuration
+- [ci.yml](.github/workflows/ci.yml): change `actions/setup-java@v1` configuration
+
 ## Dependencies
 
 - [AssertJ](https://github.com/joel-costigliola/assertj-core)
