@@ -1,4 +1,6 @@
 # Java Kata Bootstrap
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxballoy%2Fdojo-java-bootstrap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxballoy%2Fdojo-java-bootstrap?ref=badge_shield)
+
 
 You can use this project to quick start your katas in Java.
 
@@ -24,3 +26,7 @@ The following files are just examples, you can remove them:
 - src/test/java/com/xballoy/kata/CalculatorSteps.java
 - src/test/java/com/xballoy/kata/CalculatorTest.java
 - src/test/resources/features/Calculator.feature
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxballoy%2Fdojo-java-bootstrap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxballoy%2Fdojo-java-bootstrap?ref=badge_large)
