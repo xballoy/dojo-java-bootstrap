@@ -2,7 +2,7 @@
 
 You can use this project to quick start your katas in Java.
 
-The project targets the latest JDK version (15).
+The project targets the latest JDK version (16).
 You can either install it from [AdoptOpenJDK website](https://adoptopenjdk.net/) or you can change it to your current version in following files:
 
 - [pom.xml](pom.xml): change `maven-compiler-plugin` configuration
